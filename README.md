@@ -10,5 +10,6 @@ Welcome to my **Wireshark** project! In the world of penetration testing, captur
 - **Goal**: Showcase Wireshark's power in practical network analysis and cybersecurity operations.
 
 Task questions were fairly easy to answer.  Working with the 'Exercise.pcapng' file, we were able to fulfill the task requirements.  Once on the GUI page for the file, I navigated to the Statistics option located in the toolbar, capture file properties, and answered the task correctly.
+
 ![Task 2(1)](https://github.com/user-attachments/assets/e600db3c-6192-449a-9fb0-afc1c3066257)
 ![Task 2 (2)](https://github.com/user-attachments/assets/03ad008c-fe72-47f4-9ffb-bfac8ee10d8b)
