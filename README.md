@@ -19,6 +19,7 @@ Task questions were fairly easy to answer.  Working with the 'Exercise.pcapng' f
 - **Wireshark Support**: Wireshark supports numerous protocols for dissection.
 - **Customization**: You can write custom dissection scripts.
 
+
 -**Packet Details**: 
   - Packets typically follow the OSI Model with five to seven layers, depending on the protocol.
   - For an HTTP packet, the layers break down as:
@@ -28,5 +29,5 @@ Task questions were fairly easy to answer.  Working with the 'Exercise.pcapng' f
     - **Transport Layer**: TCP/UDP port information.
     - **Session, Presentation, Application Layers**: Higher-level protocols like HTTP.
    
-  ![Task 3](https://github.com/user-attachments/assets/220f03e4-852d-4571-9b26-6ab8177c41d2)
+  ![Task 3](https://github.com/user-attachments/assets/220f03e4-852d-4571-9b26-6ab8177c41d2) ![Task 3 (2)](https://github.com/user-attachments/assets/ae332bf3-93da-412f-b5ac-ad672130efbe)  - quick screenshot of the detailed packet I analyzed to complete this task
 
