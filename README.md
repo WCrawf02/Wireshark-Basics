@@ -27,3 +27,6 @@ Task questions were fairly easy to answer.  Working with the 'Exercise.pcapng' f
     - **Network Layer**: IP addressing and routing information.
     - **Transport Layer**: TCP/UDP port information.
     - **Session, Presentation, Application Layers**: Higher-level protocols like HTTP.
+   
+  ![Task 3](https://github.com/user-attachments/assets/220f03e4-852d-4571-9b26-6ab8177c41d2)
+
