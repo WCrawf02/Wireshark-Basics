@@ -33,6 +33,14 @@ Task questions were fairly easy to answer.  Working with the 'Exercise.pcapng' f
   
   - Quick screenshot of the detailed packet I analyzed to complete this task. Below are the answers.
 
-  - ![Task 3 (3)](https://github.com/user-attachments/assets/e45f3664-f281-48cd-8042-3a615602ca12)
+    ![Task 3 (3)](https://github.com/user-attachments/assets/e45f3664-f281-48cd-8042-3a615602ca12)
 
+**Task 4 Module - Packet Navigation**:
 
+**Key Points**:
+1.) **Packet Numbers**: Wireshark assigns unqiue numbers to each packet, making it easier to navigate large captures and track specific events.
+2.) **Find Packets**: Packets can be searched by content using "Edit -- Find Packet" with various input types.
+    - Common searches use string and regex; can be conducted across the packet list, details, or bytes panes.
+3.) **Marking Packets**: Mark packets for further analysis using the "Edit" or right-click menu.
+4.) **Packet Comments**: Add commments to packets for further investigation or to highlight points of interest.
+5.) **Exporting Packets**: Exporting packets allows you to focus on suspicious packets without including unnecessary data, helping with more precise analysis.
