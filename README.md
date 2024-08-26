@@ -13,3 +13,17 @@ Task questions were fairly easy to answer.  Working with the 'Exercise.pcapng' f
 
 ![Task 2(1)](https://github.com/user-attachments/assets/e600db3c-6192-449a-9fb0-afc1c3066257)
 ![Task 2 (2)](https://github.com/user-attachments/assets/03ad008c-fe72-47f4-9ffb-bfac8ee10d8b)
+
+**Task 3 Module - Packet Dissection**:
+- **Definition**: AKA protocol dissection, it involves investigating packet details by decoding protocols and fields.
+- **Wireshark Support**: Wireshark supports numerous protocols for dissection.
+- **Customization**: You can write custom dissection scripts.
+
+-**Packet Details**: 
+  - Packets typically follow the OSI Model with five to seven layers, depending on the protocol.
+  - For an HTTP packet, the layers break down as:
+    - **Physical Layer**: Bit-level transmission
+    - **Data Link Layer**: Frame details, MAC addresses
+    - **Network Layer**: IP addressing and routing information.
+    - **Transport Layer**: TCP/UDP port information.
+    - **Session, Presentation, Application Layers**: Higher-level protocols like HTTP.
